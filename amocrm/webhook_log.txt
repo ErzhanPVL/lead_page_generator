@@ -1,0 +1,3559 @@
+[2024-12-26 00:41:50] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=28405831&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71905366&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2024-12-26 00:41:50] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28405831
+                            [status_id] => 67483330
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71905366
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2024-12-26 00:41:50] Extracted ID: 28405831
+[2024-12-26 00:41:50] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 0 WHERE `id` = ?
+[2024-12-26 00:41:50] Record with ID 28405831 successfully updated to 2024-12-26 00:41:50 and appeals set to 0.
+[2024-12-26 00:41:52] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=28384265&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71905366&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2024-12-26 00:41:52] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28384265
+                            [status_id] => 67483330
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71905366
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2024-12-26 00:41:52] Extracted ID: 28384265
+[2024-12-26 00:41:52] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 0 WHERE `id` = ?
+[2024-12-26 00:41:52] Record with ID 28384265 successfully updated to 2024-12-26 00:41:52 and appeals set to 0.
+[2024-12-26 00:42:30] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=28405831&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884950&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2024-12-26 00:42:30] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28405831
+                            [status_id] => 67483330
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884950
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2024-12-26 00:42:30] Extracted ID: 28405831
+[2024-12-26 00:42:30] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 0 WHERE `id` = ?
+[2024-12-26 00:42:30] Record with ID 28405831 successfully updated to 2024-12-26 00:42:30 and appeals set to 0.
+[2024-12-26 00:42:31] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=28384265&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884950&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2024-12-26 00:42:31] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28384265
+                            [status_id] => 67483330
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884950
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2024-12-26 00:42:31] Extracted ID: 28384265
+[2024-12-26 00:42:31] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 0 WHERE `id` = ?
+[2024-12-26 00:42:31] Record with ID 28384265 successfully updated to 2024-12-26 00:42:31 and appeals set to 0.
+[2025-01-16 13:00:49] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=28405831&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-16 13:00:49] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28405831
+                            [status_id] => 67483330
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884938
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-16 13:00:49] Extracted ID: 28405831
+[2025-01-16 13:00:49] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 20 WHERE `id` = ?
+[2025-01-16 13:00:49] Record with ID 28405831 successfully updated to 2025-01-16 13:00:49 and appeals set to 20.
+[2025-01-16 13:01:44] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=28405831&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71905366&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-16 13:01:44] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28405831
+                            [status_id] => 67483330
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71905366
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-16 13:01:44] Extracted ID: 28405831
+[2025-01-16 13:01:44] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 20 WHERE `id` = ?
+[2025-01-16 13:01:44] Record with ID 28405831 successfully updated to 2025-01-16 13:01:44 and appeals set to 20.
+[2025-01-16 16:50:05] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=28405831&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884950&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-16 16:50:06] Lead Response: Array
+(
+    [id] => 28405831
+    [name] => Сделка #28405831
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884950
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1734817014
+    [updated_at] => 1737035404
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 940817
+                    [field_name] => land_phone
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => +79991149999
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 777888
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [field_id] => 1074801
+                    [field_name] => Дата договора
+                    [field_code] => 
+                    [field_type] => date
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1735160400
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 867b4101af8272e1789fe6674e07f3ac
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [field_id] => 1637215
+                    [field_name] => Кол-во аудитов
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 11
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/28405831?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-16 16:50:06] Record updated: Lead ID = 28405831, Last Request = 2025-01-16 16:50:06, Appeals = 11
+[2025-01-16 16:56:15] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=28405831&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884950&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-16 16:56:15] Lead Response: Array
+(
+    [id] => 28405831
+    [name] => Сделка #28405831
+    [price] => 11
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884950
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1734817014
+    [updated_at] => 1737035774
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 940817
+                    [field_name] => land_phone
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => +79991149999
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 777888
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [field_id] => 1074801
+                    [field_name] => Дата договора
+                    [field_code] => 
+                    [field_type] => date
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1735160400
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 867b4101af8272e1789fe6674e07f3ac
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [field_id] => 1637215
+                    [field_name] => Кол-во аудитов
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 11
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [field_id] => 1630457
+                    [field_name] => Бюджет рек. VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 11
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [field_id] => 1630719
+                    [field_name] => ЭДО
+                    [field_code] => 
+                    [field_type] => select
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Да
+                                    [enum_id] => 4792521
+                                    [enum_code] => 
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [field_id] => 1630459
+                    [field_name] => Процент VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 0
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [field_id] => 1630469
+                    [field_name] => Основание платежа
+                    [field_code] => 
+                    [field_type] => textarea
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Пополнение рекламного кабинета Клиента в сервисе Ads.vk.com с учётом стоимости Лицензии на ПО "Платформа AmoTarget".
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [field_id] => 933005
+                    [field_name] => Ссылка на оплату
+                    [field_code] => 
+                    [field_type] => url
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => https://pay.amocrm.ru/rvfdQZrdO1
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [field_id] => 743397
+                    [field_name] => Статус лида
+                    [field_code] => 
+                    [field_type] => select
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Счет выставлен
+                                    [enum_id] => 4791029
+                                    [enum_code] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/28405831?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-16 16:56:15] Record updated: Lead ID = 28405831, Last Request = 2025-01-16 16:56:15, Appeals = 22 (Added 11)
+[2025-01-16 16:59:36] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=28965489&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884950&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71905366&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-16 16:59:36] Lead Response: Array
+(
+    [id] => 28965489
+    [name] => Сделка #28965489
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884950
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737035805
+    [updated_at] => 1737035975
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => d35dbfe0c974f00f4ebcbc7934cfc452
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/28965489?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-17 17:04:35] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=28986483&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-17 17:04:35] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28986483
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483330
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-17 17:04:35] Extracted ID: 28986483
+[2025-01-17 17:04:35] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 20 WHERE `id` = ?
+[2025-01-17 17:04:35] Record with ID 28986483 successfully updated to 2025-01-17 17:04:35 and appeals set to 20.
+[2025-01-17 17:05:44] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=28986483&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-17 17:05:44] Lead Response: Array
+(
+    [id] => 28986483
+    [name] => Сделка #28986483
+    [price] => 1050
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737119186
+    [updated_at] => 1737122743
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => f8ebcc0587b52d06dc3a089388527b8f
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 940817
+                    [field_name] => land_phone
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => +79991141304
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [field_id] => 1630457
+                    [field_name] => Бюджет рек. VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1000
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [field_id] => 1630719
+                    [field_name] => ЭДО
+                    [field_code] => 
+                    [field_type] => select
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Да
+                                    [enum_id] => 4792521
+                                    [enum_code] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [field_id] => 1630459
+                    [field_name] => Процент VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 50
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [field_id] => 1630469
+                    [field_name] => Основание платежа
+                    [field_code] => 
+                    [field_type] => textarea
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Пополнение рекламного кабинета Клиента в сервисе Ads.vk.com с учётом стоимости Лицензии на ПО "Платформа AmoTarget".
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [field_id] => 933005
+                    [field_name] => Ссылка на оплату
+                    [field_code] => 
+                    [field_type] => url
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => https://pay.amocrm.ru/rvfdQZr11C
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [field_id] => 743397
+                    [field_name] => Статус лида
+                    [field_code] => 
+                    [field_type] => select
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Счет выставлен
+                                    [enum_id] => 4791029
+                                    [enum_code] => 
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [field_id] => 1630515
+                    [field_name] => Общий рек. бюджет VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 15000
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [field_id] => 1630517
+                    [field_name] => Общий процент VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 750
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 6e59351e1c71f13edb152ab25011416d
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [field_id] => 1637215
+                    [field_name] => Кол-во аудитов
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 111
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/28986483?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-17 17:05:44] Record updated: Lead ID = 28986483, Last Request = 2025-01-17 17:05:44, Appeals = 131 (Added 111)
+[2025-01-20 16:41:08] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:41:09] Lead Response: Array
+(
+    [id] => 29051295
+    [name] => Сделка #29051295
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737380306
+    [updated_at] => 1737380467
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => JCCLR
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => bc58dc64566a748f4569e47954edd758
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051295?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-20 16:41:40] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:41:41] Lead Response: Array
+(
+    [id] => 29051295
+    [name] => Сделка #29051295
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737380306
+    [updated_at] => 1737380500
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => JCCLR
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => bc58dc64566a748f4569e47954edd758
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051295?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-20 16:45:18] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:45:18] Lead Response: Array
+(
+    [id] => 29051457
+    [name] => Сделка #29051457
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737380685
+    [updated_at] => 1737380716
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 075cd62eefe26211bde1fd5bf286a483
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => BPTBY
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051457?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-20 16:45:54] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:45:54] Lead Response: Array
+(
+    [id] => 29051457
+    [name] => Сделка #29051457
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737380685
+    [updated_at] => 1737380753
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 075cd62eefe26211bde1fd5bf286a483
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => BPTBY
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051457?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-20 16:46:54] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=143&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:46:54] Lead Response: Array
+(
+    [id] => 29051457
+    [name] => Сделка #29051457
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737380685
+    [updated_at] => 1737380813
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 075cd62eefe26211bde1fd5bf286a483
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => BPTBY
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051457?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-20 16:47:46] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=143&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:47:47] Lead Response: Array
+(
+    [id] => 29051457
+    [name] => Сделка #29051457
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737380685
+    [updated_at] => 1737380866
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 075cd62eefe26211bde1fd5bf286a483
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => BPTBY
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [field_id] => 1637215
+                    [field_name] => Кол-во аудитов
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 9
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051457?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-20 16:47:47] Record updated: Lead ID = 29051457, Last Request = 2025-01-20 16:47:47, Appeals = 9 (Added 9)
+[2025-01-20 16:49:26] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:49:27] Lead Response: Array
+(
+    [id] => 29051457
+    [name] => Сделка #29051457
+    [price] => 0
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 71884938
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 10216910
+    [created_at] => 1737380685
+    [updated_at] => 1737380966
+    [closed_at] => 
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 075cd62eefe26211bde1fd5bf286a483
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => BPTBY
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [field_id] => 1637215
+                    [field_name] => Кол-во аудитов
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 9
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051457?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-20 16:49:27] Record updated: Lead ID = 29051457, Last Request = 2025-01-20 16:49:27, Appeals = 29 (Added 9)
+[2025-01-20 16:50:06] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=143&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 16:50:06] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051457
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 143
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 16:50:06] Extracted ID: 29051457
+[2025-01-20 16:50:06] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = 20 WHERE `id` = ?
+[2025-01-20 16:50:06] Record with ID 29051457 successfully updated to 2025-01-20 16:50:06 and appeals set to 20.
+[2025-01-20 18:34:23] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 18:34:23] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051457
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483330
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 18:34:23] Extracted ID: 29051457
+[2025-01-20 18:34:23] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-20 18:34:23] Current appeals value: 20
+[2025-01-20 18:34:23] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = ? WHERE `id` = ?
+[2025-01-20 18:34:23] Record with ID 29051457 successfully updated. appeals increased to 40.
+[2025-01-20 18:34:38] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 18:34:38] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051457
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483330
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 18:34:38] Extracted ID: 29051457
+[2025-01-20 18:34:38] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-20 18:34:38] Current appeals value: 40
+[2025-01-20 18:34:38] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = ? WHERE `id` = ?
+[2025-01-20 18:34:38] Record with ID 29051457 successfully updated. appeals increased to 60.
+[2025-01-20 18:35:14] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 18:35:14] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051457
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483330
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 18:35:14] Extracted ID: 29051457
+[2025-01-20 18:35:14] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-20 18:35:14] Current appeals value: 60
+[2025-01-20 18:35:14] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = ? WHERE `id` = ?
+[2025-01-20 18:35:14] Record with ID 29051457 successfully updated. appeals increased to 75.
+[2025-01-20 18:37:30] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 18:37:30] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051457
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483330
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 18:37:30] Extracted ID: 29051457
+[2025-01-20 18:37:30] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-20 18:37:30] Current appeals value: 75
+[2025-01-20 18:37:30] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = ? WHERE `id` = ?
+[2025-01-20 18:37:30] Record with ID 29051457 successfully updated. appeals increased to 90.
+[2025-01-20 18:40:21] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051457&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483330&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 18:40:21] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051457
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483330
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 18:40:21] Extracted ID: 29051457
+[2025-01-20 18:40:21] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-20 18:40:21] Current appeals value: 90
+[2025-01-20 18:40:21] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = ? WHERE `id` = ?
+[2025-01-20 18:40:21] Record with ID 29051457 successfully updated. appeals increased to 105.
+[2025-01-20 18:51:45] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29053719&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483322&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 18:51:45] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29053719
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483322
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 18:51:45] Extracted ID: 29053719
+[2025-01-20 18:51:45] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-20 18:51:45] Error: No record found for ID 29053719
+[2025-01-20 18:52:58] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29053719&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=67483326&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-20 18:52:58] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29053719
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 67483326
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-20 18:52:58] Extracted ID: 29053719
+[2025-01-20 18:52:58] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-20 18:52:58] Current appeals value: 15
+[2025-01-20 18:52:58] Executing query: UPDATE `api_keys` SET `last_request` = ?, `appeals` = ? WHERE `id` = ?
+[2025-01-20 18:52:58] Record with ID 29053719 successfully updated. appeals increased to 30.
+[2025-01-25 16:20:35] {"id":28988753}
+[2025-01-30 17:14:11] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 17:14:11] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 17:14:11] Extracted ID: 29051295
+[2025-01-30 17:14:11] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 17:14:11] Error: No record found for ID 29051295
+[2025-01-30 17:18:14] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 17:18:14] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 17:18:14] Extracted ID: 29051295
+[2025-01-30 17:18:14] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 17:18:14] Error: No record found for ID 29051295
+[2025-01-30 17:19:02] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 17:19:02] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 17:19:02] Extracted ID: 29051295
+[2025-01-30 17:19:02] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 17:19:02] Error: No record found for ID 29051295
+[2025-01-30 21:45:04] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 21:45:04] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 21:45:04] Extracted ID: 29051295
+[2025-01-30 21:45:04] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 21:45:04] Error: No record found for ID 29051295
+[2025-01-30 22:25:48] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:25:48] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:25:48] Extracted ID: 29051295
+[2025-01-30 22:25:48] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:25:48] Error: No record found for ID 29051295
+[2025-01-30 22:26:19] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:26:19] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:26:19] Extracted ID: 29051295
+[2025-01-30 22:26:19] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:26:19] Error: No record found for ID 29051295
+[2025-01-30 22:26:41] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:26:41] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:26:41] Extracted ID: 29051295
+[2025-01-30 22:26:41] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:26:41] Error: No record found for ID 29051295
+[2025-01-30 22:27:20] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:27:20] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:27:20] Extracted ID: 29051295
+[2025-01-30 22:27:20] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:27:20] Error: No record found for ID 29051295
+[2025-01-30 22:27:53] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:27:53] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:27:53] Extracted ID: 29051295
+[2025-01-30 22:27:53] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:27:53] Error: No record found for ID 29051295
+[2025-01-30 22:32:42] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:32:42] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:32:42] Extracted ID: 29051295
+[2025-01-30 22:32:42] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:32:42] Error: No record found for ID 29051295
+[2025-01-30 22:35:42] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:35:42] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:35:42] Extracted ID: 29051295
+[2025-01-30 22:35:42] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:35:42] Error: No record found for ID 29051295
+[2025-01-30 22:38:11] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:38:11] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:38:11] Extracted ID: 29051295
+[2025-01-30 22:38:11] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:38:11] Error: No record found for ID 29051295
+[2025-01-30 22:47:44] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:47:44] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:47:44] Extracted ID: 29051295
+[2025-01-30 22:47:44] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:47:44] Error: No record found for ID 29051295
+[2025-01-30 22:49:57] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:49:57] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:49:57] Extracted ID: 29051295
+[2025-01-30 22:49:57] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:49:57] Error: No record found for ID 29051295
+[2025-01-30 22:51:43] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:51:43] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:51:43] Extracted ID: 29051295
+[2025-01-30 22:51:43] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:51:43] Error: No record found for ID 29051295
+[2025-01-30 22:52:18] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:52:18] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:52:18] Extracted ID: 29051295
+[2025-01-30 22:52:18] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:52:18] Error: No record found for ID 29051295
+[2025-01-30 22:53:59] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:53:59] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:53:59] Extracted ID: 29051295
+[2025-01-30 22:53:59] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:53:59] Error: No record found for ID 29051295
+[2025-01-30 22:56:58] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:56:58] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:56:58] Extracted ID: 29051295
+[2025-01-30 22:56:58] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:56:58] Error: No record found for ID 29051295
+[2025-01-30 22:58:19] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:58:19] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:58:19] Extracted ID: 29051295
+[2025-01-30 22:58:19] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:58:19] Error: No record found for ID 29051295
+[2025-01-30 22:59:55] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 22:59:55] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 22:59:55] Extracted ID: 29051295
+[2025-01-30 22:59:55] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 22:59:55] Error: No record found for ID 29051295
+[2025-01-30 23:00:30] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:00:30] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:00:30] Extracted ID: 29051295
+[2025-01-30 23:00:30] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:00:30] Error: No record found for ID 29051295
+[2025-01-30 23:02:13] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:02:13] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:02:13] Extracted ID: 29051295
+[2025-01-30 23:02:13] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:02:13] Error: No record found for ID 29051295
+[2025-01-30 23:03:38] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:03:38] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:03:38] Extracted ID: 29051295
+[2025-01-30 23:03:38] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:03:38] Error: No record found for ID 29051295
+[2025-01-30 23:05:18] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:05:18] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:05:18] Extracted ID: 29051295
+[2025-01-30 23:05:18] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:05:18] Error: No record found for ID 29051295
+[2025-01-30 23:06:47] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:06:47] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:06:47] Extracted ID: 29051295
+[2025-01-30 23:06:47] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:06:47] Error: No record found for ID 29051295
+[2025-01-30 23:08:16] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:08:16] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:08:16] Extracted ID: 29051295
+[2025-01-30 23:08:16] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:08:16] Error: No record found for ID 29051295
+[2025-01-30 23:11:39] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:11:39] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:11:39] Extracted ID: 29051295
+[2025-01-30 23:11:39] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:11:39] Error: No record found for ID 29051295
+[2025-01-30 23:13:24] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:13:24] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:13:24] Extracted ID: 29051295
+[2025-01-30 23:13:24] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:13:24] Error: No record found for ID 29051295
+[2025-01-30 23:14:20] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:14:20] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:14:20] Extracted ID: 29051295
+[2025-01-30 23:14:20] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:14:20] Error: No record found for ID 29051295
+[2025-01-30 23:15:39] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:15:39] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:15:39] Extracted ID: 29051295
+[2025-01-30 23:15:39] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:15:39] Error: No record found for ID 29051295
+[2025-01-30 23:16:35] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:16:35] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:16:35] Extracted ID: 29051295
+[2025-01-30 23:16:35] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:16:35] Error: No record found for ID 29051295
+[2025-01-30 23:18:11] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:18:11] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:18:11] Extracted ID: 29051295
+[2025-01-30 23:18:11] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:18:11] Error: No record found for ID 29051295
+[2025-01-30 23:19:05] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:19:05] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:19:05] Extracted ID: 29051295
+[2025-01-30 23:19:05] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:19:05] Error: No record found for ID 29051295
+[2025-01-30 23:20:37] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:20:37] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:20:37] Extracted ID: 29051295
+[2025-01-30 23:20:37] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:20:37] Error: No record found for ID 29051295
+[2025-01-30 23:21:57] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:21:57] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:21:57] Extracted ID: 29051295
+[2025-01-30 23:21:57] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:21:57] Error: No record found for ID 29051295
+[2025-01-30 23:22:52] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:22:52] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:22:52] Extracted ID: 29051295
+[2025-01-30 23:22:52] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:22:52] Error: No record found for ID 29051295
+[2025-01-30 23:23:56] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:23:56] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:23:56] Extracted ID: 29051295
+[2025-01-30 23:23:56] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:23:56] Error: No record found for ID 29051295
+[2025-01-30 23:24:57] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:24:57] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:24:57] Extracted ID: 29051295
+[2025-01-30 23:24:57] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:24:57] Error: No record found for ID 29051295
+[2025-01-30 23:25:55] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:25:55] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:25:55] Extracted ID: 29051295
+[2025-01-30 23:25:55] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:25:55] Error: No record found for ID 29051295
+[2025-01-30 23:26:46] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:26:46] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:26:46] Extracted ID: 29051295
+[2025-01-30 23:26:46] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:26:46] Error: No record found for ID 29051295
+[2025-01-30 23:27:28] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:27:28] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:27:28] Extracted ID: 29051295
+[2025-01-30 23:27:28] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:27:28] Error: No record found for ID 29051295
+[2025-01-30 23:27:50] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:27:50] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:27:50] Extracted ID: 29051295
+[2025-01-30 23:27:50] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:27:50] Error: No record found for ID 29051295
+[2025-01-30 23:28:35] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:28:35] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:28:35] Extracted ID: 29051295
+[2025-01-30 23:28:35] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:28:35] Error: No record found for ID 29051295
+[2025-01-30 23:28:56] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:28:56] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:28:56] Extracted ID: 29051295
+[2025-01-30 23:28:56] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:28:56] Error: No record found for ID 29051295
+[2025-01-30 23:29:49] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:29:49] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:29:49] Extracted ID: 29051295
+[2025-01-30 23:29:49] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:29:49] Error: No record found for ID 29051295
+[2025-01-30 23:32:00] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:32:00] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:32:00] Extracted ID: 29051295
+[2025-01-30 23:32:00] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:32:00] Error: No record found for ID 29051295
+[2025-01-30 23:43:30] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:43:30] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:43:30] Extracted ID: 29051295
+[2025-01-30 23:43:30] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:43:30] Error: No record found for ID 29051295
+[2025-01-30 23:44:08] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:44:08] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:44:08] Extracted ID: 29051295
+[2025-01-30 23:44:08] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:44:08] Error: No record found for ID 29051295
+[2025-01-30 23:44:34] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:44:34] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:44:34] Extracted ID: 29051295
+[2025-01-30 23:44:34] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:44:34] Error: No record found for ID 29051295
+[2025-01-30 23:45:04] RAW Data (POST): leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=71884938&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:45:04] Parsed Data: Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 29051295
+                            [status_id] => 71884938
+                            [pipeline_id] => 8270130
+                            [old_status_id] => 71884942
+                            [old_pipeline_id] => 8270130
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 31351930
+            [subdomain] => messgru
+        )
+
+)
+
+[2025-01-30 23:45:04] Extracted ID: 29051295
+[2025-01-30 23:45:04] Executing query: SELECT `appeals` FROM `api_keys` WHERE `id` = ?
+[2025-01-30 23:45:04] Error: No record found for ID 29051295
+[2025-01-30 23:49:36] RAW Data: leads%5Bstatus%5D%5B0%5D%5Bid%5D=29051295&leads%5Bstatus%5D%5B0%5D%5Bstatus_id%5D=142&leads%5Bstatus%5D%5B0%5D%5Bpipeline_id%5D=8270130&leads%5Bstatus%5D%5B0%5D%5Bold_status_id%5D=71884942&leads%5Bstatus%5D%5B0%5D%5Bold_pipeline_id%5D=8270130&account%5Bid%5D=31351930&account%5Bsubdomain%5D=messgru
+[2025-01-30 23:49:37] Lead Response: Array
+(
+    [id] => 29051295
+    [name] => Сделка #29051295
+    [price] => 13400
+    [responsible_user_id] => 10216910
+    [group_id] => 0
+    [status_id] => 142
+    [pipeline_id] => 8270130
+    [loss_reason_id] => 
+    [created_by] => 10216910
+    [updated_by] => 0
+    [created_at] => 1737380306
+    [updated_at] => 1738270276
+    [closed_at] => 1738270176
+    [closest_task_at] => 
+    [is_deleted] => 
+    [custom_fields_values] => Array
+        (
+            [0] => Array
+                (
+                    [field_id] => 1633906
+                    [field_name] => clientpassword
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => JCCLR
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [field_id] => 1635391
+                    [field_name] => audit–token
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => bc58dc64566a748f4569e47954edd758
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [field_id] => 1630719
+                    [field_name] => ЭДО
+                    [field_code] => 
+                    [field_type] => select
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Да
+                                    [enum_id] => 4792521
+                                    [enum_code] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [field_id] => 1630469
+                    [field_name] => Основание платежа
+                    [field_code] => 
+                    [field_type] => textarea
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Пополнение рекламного кабинета Клиента в сервисе Ads.vk.com.
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [field_id] => 933005
+                    [field_name] => Ссылка на оплату
+                    [field_code] => 
+                    [field_type] => url
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => https://pay.amocrm.ru/rvfdQZrKF9
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [field_id] => 743397
+                    [field_name] => Статус лида
+                    [field_code] => 
+                    [field_type] => select
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Счет выставлен
+                                    [enum_id] => 4791029
+                                    [enum_code] => 
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [field_id] => 1630459
+                    [field_name] => НДС VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2234
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [field_id] => 1638813
+                    [field_name] => Способ оплаты
+                    [field_code] => 
+                    [field_type] => select
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Счет
+                                    [enum_id] => 4812089
+                                    [enum_code] => 
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [field_id] => 1630515
+                    [field_name] => Общий рек. бюджет VK Ads
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 11166
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [field_id] => 1637215
+                    [field_name] => Кол-во аудитов
+                    [field_code] => 
+                    [field_type] => text
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 8
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [score] => 
+    [account_id] => 31351930
+    [labor_cost] => 
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => https://messgru.amocrm.ru/api/v4/leads/29051295?page=1&limit=250
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [tags] => Array
+                (
+                )
+
+            [companies] => Array
+                (
+                )
+
+        )
+
+)
+
+[2025-01-30 23:49:37] Record updated: Lead ID = 29051295, Last Request = 2025-01-30 23:49:37, Appeals = 8 (Added 8)

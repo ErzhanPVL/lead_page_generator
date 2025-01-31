@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-close-coockies</title>
+    <desc>Created with Sketch.</desc>
+    <g id="corporate-website-EN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage-(coockies)" transform="translate(-213.000000, -603.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-7" transform="translate(20.000000, 580.000000)">
+                <g id="Group-5" transform="translate(182.000000, 12.000000)">
+                    <g id="icon-close-coockies" transform="translate(12.000000, 12.000000)">
+                        <path d="M7.43431458,-0.565685425 C7.74673401,-0.878104858 8.25326599,-0.878104858 8.56568542,-0.565685425 C8.87810486,-0.253265992 8.87810486,0.253265992 8.56568542,0.565685425 L0.565685425,8.56568542 C0.253265992,8.87810486 -0.253265992,8.87810486 -0.565685425,8.56568542 C-0.878104858,8.25326599 -0.878104858,7.74673401 -0.565685425,7.43431458 L7.43431458,-0.565685425 Z" id="Path"></path>
+                        <path d="M-0.565685425,0.565685425 C-0.878104858,0.253265992 -0.878104858,-0.253265992 -0.565685425,-0.565685425 C-0.253265992,-0.878104858 0.253265992,-0.878104858 0.565685425,-0.565685425 L8.56568542,7.43431458 C8.87810486,7.74673401 8.87810486,8.25326599 8.56568542,8.56568542 C8.25326599,8.87810486 7.74673401,8.87810486 7.43431458,8.56568542 L-0.565685425,0.565685425 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
